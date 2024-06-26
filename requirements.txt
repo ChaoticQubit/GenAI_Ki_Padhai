@@ -1,0 +1,10 @@
+langchain
+langchain-openai
+langchain-community
+openai
+streamlit
+python-dotenv
+
+wikipedia
+numexpr
+google-search-results
